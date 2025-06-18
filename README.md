@@ -126,11 +126,4 @@ MIT License
 
 ---
 
-## 📬 Contact
 
-For questions or academic use, contact:
-
-* Yashar Meidani – \[email or GitHub]
-* \[Friend's Name] – \[email or GitHub]
-
-```
