@@ -7,6 +7,20 @@ This project implements a lightweight convolutional neural network (CNN) for ima
 Developed as an academic collaboration between **Yashar Meidani** and **Amin Taheri**.
 
 ---
+## 🖼️ Visual Results
+
+### 🔧 Input Noisy Image
+![Noisy](assets/download.png)
+
+### 🧼 Denoised Output
+![Denoised](assets/download2.png)
+
+### 🎯 Ground Truth (Clean)
+![Clean](assets/download (2).png)
+
+### 🧪 Another Unseen Example
+![Unseen Example](assets/unseen_data_image6.png)
+
 
 ## 📌 Features
 
