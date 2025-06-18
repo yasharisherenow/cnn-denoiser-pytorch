@@ -1,1 +1,1 @@
-Folder for training images (5 images)
+Folder to store model_best.pth
