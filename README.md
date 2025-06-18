@@ -15,8 +15,6 @@ Developed as an academic collaboration between **Yashar Meidani** and **Amin Tah
 ### 🧼 Denoised Output
 ![Denoised](assets/download2.png)
 
-### 🎯 Ground Truth (Clean)
-![Clean](assets/download (2).png)
 
 ### 🧪 Another Unseen Example
 ![Unseen Example](assets/unseen_data_image6.png)
