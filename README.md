@@ -1,5 +1,5 @@
 
-```
+
 # 🧼 CNN Image Denoiser (PyTorch)
 
 This project implements a lightweight convolutional neural network (CNN) for image denoising, trained on synthetic Gaussian noise. Built with PyTorch, it uses residual learning to predict the noise component and efficiently reconstruct clean images.
