@@ -38,24 +38,6 @@ Output (Noisy + Residual)
 
 ---
 
-## 📁 Project Structure
-
-```
-
-.
-├── src/
-│   ├── dataset.py        # Custom PatchDataset class
-│   ├── model.py          # BottleneckDenoiser architecture
-│   ├── train.py          # Training loop with early stopping
-│   ├── eval.py           # Evaluation on unseen data
-│   └── visualize.py      # Plot clean/noisy/denoised patches
-├── data/                 # Training images
-├── unseen\_data/          # Validation or test images
-├── weights/              # Saved model weights (.pth)
-├── README.md
-└── LICENSE
-
-````
 
 ---
 
