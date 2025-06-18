@@ -16,7 +16,7 @@ Developed as an academic collaboration between **Yashar Meidani** and **Amin Tah
 ![Denoised](assets/download2.png)
 
 
-### 🧪 Another Unseen Example
+### 🧪 Unseen Example
 ![Unseen Example](assets/unseen_data_image6.png)
 
 
