@@ -116,7 +116,7 @@ Will display side-by-side: Clean | Noisy | Denoised
 ## 📄 License
 
 MIT License
-© 2025 Yashar Meidani & \[Friend's Full Name]
+© 2025 Yashar Meidani & \ Amin Taheri
 
 ---
 
